@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004596149556",
+    "firebase_url": "https://ort-resuelve-default-rtdb.firebaseio.com",
+    "project_id": "ort-resuelve",
+    "storage_bucket": "ort-resuelve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004596149556:android:c12c9e9eed7663775c3961",
+        "android_client_info": {
+          "package_name": "com.example.ejemplo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004596149556-i8lga7chin6ptkvei2csob6dbj7sv5el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDlQ4w3TdzSqm0C7ihOj5-SEXKkwKl_R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004596149556-i8lga7chin6ptkvei2csob6dbj7sv5el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
