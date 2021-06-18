@@ -33,7 +33,7 @@ public class aviso extends AppCompatActivity {
        // paqueteRecibido=this.getIntent().getExtras();
 
     }
-
+//presiona el boton
     public void presionarboton(View v){
         Intent myIntent = new Intent(v.getContext(), misreclamos.class);
         startActivity(myIntent);
