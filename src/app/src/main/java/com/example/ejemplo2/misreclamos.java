@@ -40,6 +40,7 @@ public class misreclamos extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_reclamos);
         // ArrayList<Ubicacion> nuestrasubicaciones;
+        // Agregue un text view
        TextView reclamos=findViewById(R.id.reclamos);
         DatabaseReference mibdd=FirebaseDatabase.getInstance().getReference();
 
